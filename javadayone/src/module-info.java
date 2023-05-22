@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author PAMBOJI
+ *
+ */
+module javadayone {
+}
